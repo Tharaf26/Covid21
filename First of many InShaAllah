@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My super cool website</title>
+</head>
+<body>
+    <h1>My name is Tharaf</h1>
+    <img src="">
+    <h2>trying to create my first website here</h2>
+    <a href="http://tesla.com">CLICK HERE to go to tesla.com</a>
+    <button>Click Falas</button>
+
+    <a href="https://www.google.com"
+    target="_blank">Visit Google HERE</a>
+
+    <table>
+        <tr><th> One</th><th>Two</th><th>Three</th></tr>
+
+        <tr><td>Tharaf</td><td>Ishran</td><td>Yusuf</td></tr>
+    </table>
+
+    <h1>Things to pack for picnic
+    <ul>
+        <li>Blanket</li>live
+        <li>Toothbrush</li>
+        <li>Gas stove</li>
+    </ul>
+
+    <h4>things to do in picnic</h4>
+    <ol>
+        <li>Go fishing
+        <li>set up campsite</li>
+        </li>
+    </ol>
+    </h1>
+</body>
+</html>
